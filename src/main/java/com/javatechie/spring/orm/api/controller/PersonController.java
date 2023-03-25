@@ -26,7 +26,7 @@ public class PersonController {
   @GetMapping("/getAll")
   public List<Person> getAllPersons()
   {
-    return dao.getPerson();
+    return dao.getPerson();//commit
   }
 
 }
