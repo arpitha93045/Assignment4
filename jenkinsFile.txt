@@ -1,0 +1,41 @@
+pipeline {
+    agent any
+    
+    stages {
+        stage('Clone') {
+            steps {
+                sh '''
+                git clone https://github.com/dhruv93015/Calculator.git
+                '''
+            }
+        }
+        stage('Build') {
+            steps {
+                sh '''
+                python3 Calculator/calculator.py
+                '''
+            }
+        }
+        stage('Test') {
+            steps {
+                sh '''
+                python3 Calculator/CalcTest.py 
+                '''
+            }
+        }
+        stage('Deploy') {
+            steps {
+                echo 'Deployed'
+            }
+        }
+    }
+    post {
+        // Clean after build
+        always {
+            cleanWs(cleanWhenNotBuilt: false,
+                    deleteDirs: true,
+                    disableDeferredWipeout: true,
+                    notFailBuild: true)
+        }
+    }
+}
