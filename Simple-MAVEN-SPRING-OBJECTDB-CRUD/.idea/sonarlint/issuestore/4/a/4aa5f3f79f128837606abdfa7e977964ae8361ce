@@ -1,0 +1,40 @@
+
+_
+java:S1192F"JDefine a constant instead of duplicating this literal "has-error" 8 times.(ïö€
+k	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬‚Œïüÿÿÿÿ
+f	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜‹•
+f	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Íà˜
+f	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ßÂß
+f	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ßÂß
+f	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ßÂß
+f	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ßÂß
+f	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ßÂß
+f	java:S117l"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¤È‚
+f	java:S117m"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ†›ö
+f	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÜ
+e	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ä
+k	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¤”Üûÿÿÿÿ
+g	java:S117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô¿Ã
+l	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù°öæúÿÿÿÿ
+l	java:S117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¬ªãøÿÿÿÿ
+R
+java:S4973M"<Strings and Boxed types should be compared using "equals()".(™Åš¢
+n
+java:S3753 "XAdd a call to "setComplete()" on the SessionStatus object in a "@RequestMapping" method.(åØĞÎ
+`
+java:S1659="JDeclare "oUser_date_id" and all following declarations on a separate line.(­ßÂß
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(Óø„ï
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(™Åš¢
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(ïœÓüÿÿÿÿ
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(±¥µ™
+V	java:S125_"<This block of commented-out lines of code should be removed.(Š™Ğƒıÿÿÿÿ
+S	java:S106}"9Replace this use of System.out or System.err by a logger.(¸şÏàúÿÿÿÿ
+O	java:S106„"9Replace this use of System.out or System.err by a logger.(¤ì£Å
+a
+java:S4488˜"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(•ÿÚé
+T	java:S106¥"9Replace this use of System.out or System.err by a logger.(» ÷¼øÿÿÿÿ
+T	java:S106º"9Replace this use of System.out or System.err by a logger.(ƒÎöøÿÿÿÿ
+T	java:S106Ê"9Replace this use of System.out or System.err by a logger.(¿ôŒ÷úÿÿÿÿ
+O	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(ßØó¯
+O	java:S106å"9Replace this use of System.out or System.err by a logger.(ØÀŸÍ
+O	java:S106è"9Replace this use of System.out or System.err by a logger.(‡ÃÀ

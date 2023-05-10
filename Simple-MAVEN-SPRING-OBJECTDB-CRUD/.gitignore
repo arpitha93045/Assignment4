@@ -1,0 +1,8 @@
+# exclude other files #
+######################
+target/generated-sources/*
+
+# Package Files #
+*.jar
+*.war
+*.ear
