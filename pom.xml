@@ -23,6 +23,11 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <java.version>11</java.version>
   </properties>
+  
+  <properties>
+  <sonar.organization>arpitha93045</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 
   <dependencies>
     <dependency>
